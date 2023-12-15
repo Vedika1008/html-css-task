@@ -1,0 +1,53 @@
+p{
+    font-weight: 400;
+    font-size: medium;
+}
+
+.logos .card{
+    margin: 10px;
+    border: 3px solid black;
+}
+img{
+    height: 18rem;
+    border-bottom: 1px solid black;                                                                                                                   ;
+}
+
+.logos{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+
+table{
+    text-align: center;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 50px;
+  
+}
+td{
+    padding: 8px;
+    background-color: #EF7C8E;
+     
+}
+th{
+padding: 8px;
+    background-color:#FAE8E0;
+    
+}
+.days{
+    border:0.5px solid black; 
+}
+
+.time{
+    font-weight: bold;
+    background-color:#FAE8E0;
+    border:0.5px solid black;
+
+    }
+    .lec{
+        border:0.5px solid black;
+        
+    }
+ 
